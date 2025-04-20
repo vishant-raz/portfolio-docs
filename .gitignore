@@ -1,0 +1,27 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files
+Icon
+
+# Thumbnails
+._*
+
+# Spotlight files
+.Spotlight-V100
+
+# Trash
+.Trashes
+
+# Files that might appear on external disks
+.VolumeIcon.icns
+com.apple.timemachine.donotpresent
+
+# Directories potentially created on network shares
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
